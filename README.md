@@ -52,3 +52,9 @@ and removal.
   +01
    ^
   ...
+
+
+# Sample files
+
+https://www.silabs.com/products/power/isolators/Pages/Si86xx-Digital-Isolators.aspx
+
